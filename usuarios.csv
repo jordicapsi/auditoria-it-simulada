@@ -1,0 +1,21 @@
+user_id,role,department,is_active,last_login
+u001,Sales,Ventas,True,2025-06-20
+u002,Finance,TI,True,2025-06-23
+u003,HR,TI,True,2025-06-26
+u004,Sales,TI,True,2025-06-29
+u005,HR,Finanzas,True,2025-07-02
+u006,IT,Recursos Humanos,True,2025-07-05
+u007,Admin,TI,True,2025-07-08
+u008,HR,TI,True,2025-07-11
+u009,Admin,Recursos Humanos,True,2025-07-14
+u010,Sales,TI,True,2025-07-17
+u011,Admin,Ventas,True,2025-07-20
+u012,HR,Recursos Humanos,False,2025-07-23
+u013,IT,Recursos Humanos,True,2025-07-26
+u014,Sales,Recursos Humanos,True,2025-07-29
+u015,HR,Ventas,True,2025-08-01
+u016,Sales,Recursos Humanos,True,2025-08-04
+u017,Finance,Ventas,True,2025-08-07
+u018,Admin,Recursos Humanos,True,2025-08-10
+u019,Finance,Finanzas,True,2025-08-13
+u020,HR,TI,True,2025-08-16
